@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041841231044",
+    "project_id": "androidturafoglalo",
+    "storage_bucket": "androidturafoglalo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041841231044:android:73c7474762db00b62fe591",
+        "android_client_info": {
+          "package_name": "com.example.turafoglalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041841231044-52thju29lcb7lijufhveh0vlfljg2164.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.turafoglalo",
+            "certificate_hash": "ba1d952840ea688ae8e921ff5626f261e48301dc"
+          }
+        },
+        {
+          "client_id": "1041841231044-aimmppoutg22lchd01ocov7g0a3vlrre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCanK67EkETaL9EVrGCTacKKhxlsE5pqU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041841231044-aimmppoutg22lchd01ocov7g0a3vlrre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

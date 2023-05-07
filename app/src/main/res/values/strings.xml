@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Túrafoglaló</string>
+    <string name="name">E-mail cím</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Cím</string>
+    <string name="account_type">Fiók típusa</string>
+    <string name="customer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírása.</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+
+    <string-array name="phone_labels">
+        <item>Otthon</item>
+        <item>Munkahely</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>A Zsivány-sziklák rejtekében</item>
+        <item>Belső-Őrségi kalandozás</item>
+        <item>Vendvidéki gyalogtúra a János-hegyre</item>
+        <item>Rábavidéki körtúra</item>
+        <item>Elvarázsolt pincék – 10. Alpannonia® light körtúra</item>
+        <item>Évezredek újta – 8. Alpannonia® light körtúra</item>
+        <item>Betyárok és lovagok – 6. Alpannonia® light körtúra</item>
+        <item>Határokon át térben és időben – 3. Alpannonia® light körtúra</item>
+        <item>Hegymenet – 6. Alpannonia® hard körtúra</item>
+        <item>Kalandos pápaszem – 9. Alpannonia® light körtúra</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>A gyermekekkel is könnyen teljesíthető hosszabb séta a kalandos elnevezésű Zsivány-sziklákhoz vezet, csodás erdei környezetben.</item>
+        <item>Fogadd el a kihívást és indulj el a gerencsérek földjén, hogy meglásd, mit is rejt valójában az Őrség délvidéke!</item>
+        <item>Kalandozz el ezen a dombos, alpesi tájon a Vendvidékben egy könnyed túrára! Domboldalból, mesés kilátással indíthatod a gyalogtúrát. Kövesd a táblák mutatta irányt, majd az aszfaltozott úton, amely egyben az EuroVelo 13 vonala, rövidesen eléred Felsőszölnök központját, ahol rövid kitérővel ellátogathatsz a Kühár Emlékházba, melyben a magyarországi szlovén lakosság mindennapjaiba, történelmébe, néprajzi és kulturális életébe nyerhetsz betekintést.</item>
+        <item>Indulj el ezekkel a különféle programokkal teli élménytúrán az Őrségbe, és mássz fel kilátóra, tekintsd meg nemzeti kulturális emlékeket és többet!</item>
+        <item>A természeti és kulturális látnivalókban gazdag túrakör az egykori cáki kőfejtőhöz közeli játszótérnél kezdődik. Vadregényes táj, 120 éves fa, pincesorok, különleges növényvilág és nem utolsósorban Cák varázslatos települése várja, hogy...</item>
+        <item>Velemben minden évszakban romantikus sétát tehetünk a patakparton, a Szent Vid-hegyre felkapaszkodva pedig rábukkanhatsz az egészen az újkőkor óta itt élt emberek nyomaira, és tanúja lehetsz a természet harmóniájának.</item>
+        <item>A csepregi erdők és tavak az Írottkő Natúrpark igazi gyöngyszemei a kényelmes tempójú túrákat kedvelők számára.</item>
+        <item>EAz Írottkő Natúrpark körtúramozgalmának leghosszabb light túráján bepillantást nyerhetsz a határtalan természet és a változatos táj titkaiba.</item>
+        <item>Hódítsd meg egy kihívásokkal teli körtúrán a Dunántúl legmagasabb csúcsát, az Írottkőt! Készülj fel, hogy masszív igénybevételt jelent majd a túra az izomzatodnak.</item>
+        <item>Nem kör-, hanem tulajdonképpen pápaszemalakú túra kanyarog a barátságos Kőszegdoroszló környékén, kényelmes terepviszonyokkal. Az apró falu patakjának csobogása és virágai megnyugtatnak, a lukácsházi szőlőhegy kemencéiben sült disznótoros finomságok illata pedig, a szezonális gyümölcsök zamatával keveredve, az otthon melegét idézi. Mindeközben a gyöngyösfalusi Holdfény Liget Kalandpark extrém izgalmakat ígér, míg a Csömötei-kilátónál elmerülhetsz a messzeségben, és a QR-kódok, valamint információs táblák segítségével megismerheted az osztrák-magyar alpannonia® túraútvonal különleges értékeit egészen az osztrák Semmeringig.</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/zsivany_szikla</item>
+        <item>@drawable/belso_orseg_2</item>
+        <item>@drawable/vendvidek3</item>
+        <item>@drawable/rabavidek4</item>
+        <item>@drawable/elvarazsolt_pincek5</item>
+        <item>@drawable/evezredek_utja6</item>
+        <item>@drawable/betyarok</item>
+        <item>@drawable/hatarokonat</item>
+        <item>@drawable/hegymenet</item>
+        <item>@drawable/kalandospapaszem</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>~15 000 HUF</item>
+        <item>~22 000 HUF</item>
+        <item>~18 000 HUF</item>
+        <item>~10 000 HUF</item>
+        <item>~0 HUF</item>
+        <item>~65 000 HUF</item>
+        <item>~150 000 HUF</item>
+        <item>~8000 HUF</item>
+        <item>~15 000 HUF</item>
+        <item>~86 000 HUF</item>
+    </array>
+</resources>
